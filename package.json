@@ -1,0 +1,1 @@
+{"description":"Worst AI Advice: one line of terrible advice, in 140 characters or fewer — make.fun bounty entry","license":"MIT","main":"main.ts","name":"worst-advice-20261124","scripts":{"start":"bun run main.ts"},"type":"module","version":"1.0.0"}
